@@ -2,6 +2,8 @@
 
 Simple function for quick adjust of volume on macOS
 
+<a href="https://asciinema.org/a/6q5cjGbr6GfxXxKxal8KAxyF4" target="_blank"><img src="https://asciinema.org/a/6q5cjGbr6GfxXxKxal8KAxyF4.png" width="600" /></a>
+
 ## Install
 
 With [fisherman]
